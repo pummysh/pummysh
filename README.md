@@ -34,7 +34,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Pavans's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pummysh&hide_border=true&theme=redical)
+![Pummy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=pummysh&hide_border=true&theme=redical)
 
 ---
 
